@@ -23,7 +23,7 @@
 
 
 # المقدمة
-<p  align ="center" ><a  href=""  target="_blank"><img  src="./0.png"  width="600"  alt="Zeyad Shalaby"></a></p>
+<p  align ="center" ><a  href=""  target="_blank"><img  src="https://github.com/Zeyad-Shalaby12/programmming-course/blob/main/%D8%A7%D9%84%D9%85%D9%82%D8%AF%D9%85%D8%A9/0.png"  width="600"  alt="Zeyad Shalaby"></a></p>
 
  - مقدمة في الدورة 
  - متطلبات الدورة التعليمية
