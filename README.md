@@ -57,60 +57,89 @@
 | CSS | `CSS Pseudo-classes & Pseudo-elements` | مجدول|
 | CSS | `CSS Flex ` | مجدول|
 | CSS | `CSS Grid Layout Module ` | مجدول|
-
+| JavaScript | `JavaScript Introduction` | مجدول|
+| JavaScript | `avaScript Output` | مجدول|
+| JavaScript | `JavaScript Statements` | مجدول|
+| JavaScript | `JavaScript Syntax` | مجدول|
+| JavaScript | `JavaScript Variables` | مجدول|
+| JavaScript | `JavaScript Operators` | مجدول|
+| JavaScript | `JavaScript Arithmetic` | مجدول|
+| JavaScript | `JavaScript Data Types` | مجدول|
+| JavaScript | `JavaScript Functions` | مجدول|
+| JavaScript | `JavaScript Objects` | مجدول|
+| JavaScript | `JavaScript Events` | مجدول|
+| JavaScript | `JavaScript String Methods` | مجدول|
+| JavaScript | `JavaScript Number Methods` | مجدول|
+| JavaScript | `JavaScript Arrays` | مجدول|
+| JavaScript | `JavaScript Array Methods` | مجدول|
+| JavaScript | `JavaScript Array Search` | مجدول|
+| JavaScript | `JavaScript Sorting Arrays` | مجدول|
+| JavaScript | `JavaScript Date Objects` | مجدول|
+| JavaScript | `JavaScript Math Object` | مجدول|
+| JavaScript | `JavaScript Random` | مجدول|
+| JavaScript | `JavaScript if, else, and else if` | مجدول|
+| JavaScript | `JavaScript Switch Statement` | مجدول|
+| JavaScript | `JavaScript For Loop` | مجدول|
+| JavaScript | `JavaScript While Loop` | مجدول|
+| JavaScript | `JavaScript Sets` | مجدول|
+| JavaScript | `JavaScript Maps` | مجدول|
+| JavaScript | `JavaScript JSON` | مجدول|
+| JavaScript | `JavaScript HTML DOM` | مجدول|
+| JavaScript | `JavaScript  - The Browser Object Model` | مجدول|
+| JavaScript | `Web APIs` | مجدول|
 
 
 
 # المقدمة
-<p  align ="center" ><a  href=""  target="_blank"><img  src="https://github.com/Zeyad-Shalaby12/programmming-course/blob/main/%D8%A7%D9%84%D9%85%D9%82%D8%AF%D9%85%D8%A9/0.png"  width="600"  alt="Zeyad Shalaby"></a></p>
+<p  align ="center" ><a  href=""  target="_blank"><img  src="./0.png"  width="600"  alt="Zeyad Shalaby"></a></p>
 
  - مقدمة في الدورة 
  - متطلبات الدورة التعليمية
  - مقدمة لمين هذه الدورة
 
 # ماهو الانتنرنت
-<p  align ="center"><a  href=""  target="_blank"><img  src="https://github.com/Zeyad-Shalaby12/programmming-course/blob/main/%D9%85%D8%A7%D9%87%D9%88%20%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%B1%D9%86%D8%AA/1.png"  width="600"  alt="Zeyad Shalaby"></a></p>
+<p  align ="center"><a  href=""  target="_blank"><img  src="./1.png"  width="600"  alt="Zeyad Shalaby"></a></p>
 
  - ماهو الانترنت
 
 # تجهيز بيئة العمل
 
-<p  align ="center"><a  href=""  target="_blank"><img  src="https://github.com/Zeyad-Shalaby12/programmming-course/blob/main/%D8%AA%D8%AC%D9%87%D9%8A%D8%B2%20%D8%A8%D9%8A%D8%A6%D8%A9%20%D8%A7%D9%84%D8%B9%D9%85%D9%84/2.png"  width="600"  alt="Zeyad Shalaby"></a></p>
+<p  align ="center"><a  href=""  target="_blank"><img  src="./2.png"  width="600"  alt="Zeyad Shalaby"></a></p>
   
   - تحميل البرامج المطلوبة للدورة التعليمية
 
 # HTML & CSS
 
-<p  align ="center"><a  href=""  target="_blank"><img  src="https://github.com/Zeyad-Shalaby12/programmming-course/blob/main/HTML%20%26%20CSS/3.png"  width="600"  alt="Zeyad Shalaby"></a></p>
+<p  align ="center"><a  href=""  target="_blank"><img  src="./3.png"  width="600"  alt="Zeyad Shalaby"></a></p>
 
  - Intro To Html
 
 # Java Script
-<p align ="center" ><a  href=""  target="_blank"><img  src="https://github.com/Zeyad-Shalaby12/programmming-course/blob/main/JS/4.png"  width="600"  alt="Zeyad Shalaby"></a></p>
+<p align ="center" ><a  href=""  target="_blank"><img  src="./4.png"  width="600"  alt="Zeyad Shalaby"></a></p>
 
  - Intro To Java Script
 
 # MySql
 
-<p  align ="center"><a  href=""  target="_blank"><img  src="https://github.com/Zeyad-Shalaby12/programmming-course/blob/main/MySQL/6.png"  width="600"  alt="Zeyad Shalaby"></a></p>
+<p  align ="center"><a  href=""  target="_blank"><img  src="./6.png"  width="600"  alt="Zeyad Shalaby"></a></p>
 
 - Intro To MySql
 
 
 # Laravel
-<p  align ="center"><a  href=""  target="_blank"><img  src="https://github.com/Zeyad-Shalaby12/programmming-course/blob/main/Laravel/5.png"  width="600"  alt="Zeyad Shalaby"></a></p>
+<p  align ="center"><a  href=""  target="_blank"><img  src="./5.png"  width="600"  alt="Zeyad Shalaby"></a></p>
   
   - Intro To Laravel
 
 
 # Amazon Clone
 
-<p  align ="center"><a  href=""  target="_blank"><img  src="https://github.com/Zeyad-Shalaby12/programmming-course/blob/main/Amazon/amazon.png"  width="600"  alt="Zeyad Shalaby"></a></p>
+<p  align ="center"><a  href=""  target="_blank"><img  src="./amazon.png"  width="600"  alt="Zeyad Shalaby"></a></p>
  
  - Intro To Amazon Clone
 
 # Nagwa Clone
-<p align ="center" ><a  href=""  target="_blank"><img  src="https://github.com/Zeyad-Shalaby12/programmming-course/blob/main/Nagwa/Nagwa.png"  width="600"  alt="Zeyad Shalaby"></a></p>
+<p align ="center" ><a  href=""  target="_blank"><img  src="./Nagwa.png"  width="600"  alt="Zeyad Shalaby"></a></p>
  
  - Intro To Nagwa Clone
 
