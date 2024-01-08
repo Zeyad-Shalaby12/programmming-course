@@ -22,7 +22,41 @@
 | ماهو الانتنرنت | `جمع الإنترنت للعالم كله` | مجدول|
 | تجهيز بيئة العمل| `تحميل البرامج المطلوبة ` | مجدول|
 | HTML | `HTML Introduction` | مجدول|
-
+| HTML | `HTML Elements` | مجدول|
+| HTML | `HTML Attributes` | مجدول|
+| HTML | `HTML Headings & Paragraphs` | مجدول|
+| HTML | `HTML Quotation and Citation Elements` | مجدول|
+| HTML | `HTML Links` | مجدول|
+| HTML | `HTML Tables` | مجدول|
+| HTML | `HTML Lists` | مجدول|
+| HTML | `HTML Block and Inline Elements` | مجدول|
+| HTML | `HTML Div Element` | مجدول|
+| HTML | `HTML Div Class & Id` | مجدول|
+| HTML | `HTML Iframes` | مجدول|
+| HTML | `HTML Forms` | مجدول|
+| CSS | `CSS Introduction` | مجدول|
+| CSS | `CSS Syntax` | مجدول|
+| CSS | `CSS Selectors` | مجدول|
+| CSS | `CSS Colors` | مجدول|
+| CSS | `CSS Backgrounds` | مجدول|
+| CSS | `CSS Borders` | مجدول|
+| CSS | `CSS Margins` | مجدول|
+| CSS | `CSS Padding` | مجدول|
+| CSS | `CSS Height, Width and Max-width` | مجدول|
+| CSS | `CSS Box Model` | مجدول|
+| CSS | `CSS Text` | مجدول|
+| CSS | `CSS Fonts` | مجدول|
+| CSS | `CSS Links` | مجدول|
+| CSS | `CSS Layout - The display Property` | مجدول|
+| CSS | `CSS Layout - The position Property` | مجدول|
+| CSS | `CSS Layout - The z-index Property` | مجدول|
+| CSS | `CSS Layout - Overflow` | مجدول|
+| CSS | `CSS Layout - float and clear` | مجدول|
+| CSS | `CSS Layout - display: inline-block` | مجدول|
+| CSS | `CSS Layout - Horizontal & Vertical Align` | مجدول|
+| CSS | `CSS Pseudo-classes & Pseudo-elements` | مجدول|
+| CSS | `CSS Flex ` | مجدول|
+| CSS | `CSS Grid Layout Module ` | مجدول|
 
 
 
